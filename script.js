@@ -35,6 +35,11 @@ const projects = [
         name: "ToDo App",
         location: "07 - ToDo App",
     },
+    {
+        projectCount: "8",
+        name: "Simon Says Game",
+        location: "08 - Simon Says Game",
+    },
 
     // Add more projects as needed
 ];
