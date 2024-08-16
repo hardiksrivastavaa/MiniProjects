@@ -17,8 +17,8 @@ const projects = [
     },
     {
         projectCount: "4",
-        name: "Simple Landing Page",
-        location: "04 - Simple Landing Page",
+        name: "Random Color Generator",
+        location: "04 - Random Color Generator",
     },
     {
         projectCount: "5",
@@ -27,8 +27,13 @@ const projects = [
     },
     {
         projectCount: "6",
+        name: "Simple Landing Page",
+        location: "06 - Simple Landing Page",
+    },
+    {
+        projectCount: "7",
         name: "ToDo App",
-        location: "06 - ToDo App",
+        location: "07 - ToDo App",
     },
 
     // Add more projects as needed
